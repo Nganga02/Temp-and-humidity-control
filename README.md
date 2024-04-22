@@ -1,10 +1,10 @@
-# greenhouse_app
+# Greenhouse Temp and Humidity remote monitoring
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project utilizes connection of an ESP micro controller with an android application using the mqtt protocol.
+
 
 A few resources to get you started if this is your first Flutter project:
 
